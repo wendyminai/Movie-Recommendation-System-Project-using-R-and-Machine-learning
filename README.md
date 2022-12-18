@@ -6,13 +6,8 @@ The recommendation based on the underlying idea that is if two persons both like
 <img width="1151" alt="Screen Shot 2022-12-18 at 12 20 18 PM" src="https://user-images.githubusercontent.com/111389636/208313788-efcce894-0e47-43db-aae3-abcc1069afc2.png">
 
 
-###### Recommendation page
+###### Recommendation Page & Rating page
 <img width="1363" alt="Screen Shot 2022-12-18 at 12 17 25 PM" src="https://user-images.githubusercontent.com/111389636/208313801-07652523-2a09-45a0-9ab4-242cee4d4ad0.png">
-
-
-###### Rating page
-<img width="1347" alt="Screen Shot 2022-12-18 at 12 29 21 PM" src="https://user-images.githubusercontent.com/111389636/208313492-e332edfa-ba54-41c8-99de-4431aef29cc2.png">
-
 
 ### Technologies Used
 
