@@ -3,10 +3,11 @@ A Web Base user-item Movie Recommendation Engine using Collaborative Filtering B
 The recommendation based on the underlying idea that is if two persons both liked certian common movies,then the movies that one person has liked that the other person has not yet watched can be recommended to him.   
 
 ###### Home page
-![Uploading Screen Shot 2022-12-18 at 12.20.18 PM.png…]()
+<img width="1151" alt="Screen Shot 2022-12-18 at 12 20 18 PM" src="https://user-images.githubusercontent.com/111389636/208313788-efcce894-0e47-43db-aae3-abcc1069afc2.png">
+
 
 ###### Recommendation page
-<img width="1347" alt="Screen Shot 2022-12-18 at 12 29 21 PM" src="https://user-images.githubusercontent.com/111389636/208313586-bd67cab1-7a4e-4d8e-8ccb-6af3371ac617.png">
+<img width="1363" alt="Screen Shot 2022-12-18 at 12 17 25 PM" src="https://user-images.githubusercontent.com/111389636/208313801-07652523-2a09-45a0-9ab4-242cee4d4ad0.png">
 
 
 ###### Rating page
