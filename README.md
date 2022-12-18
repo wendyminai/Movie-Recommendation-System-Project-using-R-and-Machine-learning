@@ -1,16 +1,17 @@
 # Movie-Recommender-System
 A Web Base user-item Movie Recommendation Engine using Collaborative Filtering By matrix factorizations algorithm and
 The recommendation based on the underlying idea that is if two persons both liked certian common movies,then the movies that one person has liked that the other person has not yet watched can be recommended to him.   
-### Screenshot
 
 ###### Home page
-![home](https://user-images.githubusercontent.com/20842692/45380125-941d7500-b61f-11e8-852d-c09e9586b35b.png)
+![Uploading Screen Shot 2022-12-18 at 12.20.18 PM.png…]()
 
 ###### Recommendation page
-![recom](https://user-images.githubusercontent.com/20842692/45380167-b57e6100-b61f-11e8-8ec0-e07c26daa4a3.jpg)
+<img width="1347" alt="Screen Shot 2022-12-18 at 12 29 21 PM" src="https://user-images.githubusercontent.com/111389636/208313586-bd67cab1-7a4e-4d8e-8ccb-6af3371ac617.png">
+
 
 ###### Rating page
-![rate](https://user-images.githubusercontent.com/20842692/45380186-be6f3280-b61f-11e8-8ad6-8b967d1cba1a.png)
+<img width="1347" alt="Screen Shot 2022-12-18 at 12 29 21 PM" src="https://user-images.githubusercontent.com/111389636/208313492-e332edfa-ba54-41c8-99de-4431aef29cc2.png">
+
 
 ### Technologies Used
 
